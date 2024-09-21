@@ -2,7 +2,7 @@
   This is a small React application that allows users to browse and search for Pokémon using the PokéAPI. The app displays Pokémon data in cards with images, provides a search functionality to filter the Pokémon list, and includes pagination to navigate between different pages. It also features a modern, animated, and responsive design.
 
 # Live Demo
-  You can try out the app live here: Pokémon Search App Live Link
+  You can try out the app live here: (https://pokemon-search-app-sigma.vercel.app/)
 
 # Features
   `Pokémon Cards`: Display Pokémon in cards, including their image and name.
