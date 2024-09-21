@@ -30,7 +30,7 @@
 
 # Installation 
   Clone the Repository
-  Open your terminal and run: git clone https://github.com/yourusername/pokemon-search-app.git
+  Open your terminal and run: git clone (https://github.com/Vijayganaboina/Pokemon_Search_App.git)
 
 # Navigate to the Project Directory 
   cd pokemon-search-app
